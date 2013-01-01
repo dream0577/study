@@ -1,7 +1,9 @@
 package Algorithm;
 
-public class HeapSort {
+public class TestHeapSort {
 	public void testHeapSort(){
 		
 	}
+	
+	
 }
